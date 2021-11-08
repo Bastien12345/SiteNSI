@@ -1,0 +1,507 @@
+body {
+  background-size: 100%;
+  background-image: url("https://images.unsplash.com/photo-1454117096348-e4abbeba002c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
+  background-repeat: repeat;
+  background-position: fixed;
+}
+
+a {
+  color: white;
+  font-style: oblique;
+}
+
+.Haut {
+  position: relative;
+  height: 180px;
+  width: 1510px;
+}
+
+.Accueil {
+  background-image: url("/image/images.jpg");
+  background-size: 100%;
+  background-position: left;
+  color: rgba(255, 255, 255, 0.838);
+  font-size: 100px;
+  text-transform: uppercase;
+  border: 15px solid rgb(243, 232, 232);
+  padding-right: 500px;
+  padding-left: 500px;
+  margin-top: 0px;
+  position: absolute;
+  left: 5px;
+}
+
+.Gameboy {
+  float: left;
+  margin-top: 7px;
+  width: 120px;
+  position: absolute;
+  top: 5px;
+  left: 20px;
+}
+
+.Pacman {
+  width: 100px;
+
+  position: absolute;
+  top: 17px;
+  left: 200px;
+}
+
+.Mario {
+  position: absolute;
+  width: 100px;
+  top: 20px;
+  left: 380px;
+}
+
+.Fantome {
+  position: absolute;
+  width: 110px;
+  right: 370px;
+  top: 15px;
+}
+
+.Coeur {
+  position: absolute;
+  width: 130px;
+  right: 200px;
+  top: 5px;
+}
+
+.SNES {
+  position: absolute;
+  width: 130px;
+  right: 35px;
+  top: 5px;
+}
+
+.Def {
+  position: relative;
+  width: 550px;
+  height: 150px;
+  margin-top: 0px;
+}
+
+.Definition {
+  font-size: 80px;
+  background-image: url("/image/bleue.jfif");
+  background-size: cover;
+  text-align: center;
+  color: white;
+  position: absolute;
+  bottom: 0px;
+  left: 50px;
+  padding-left: 70px;
+  padding-right: 70px;
+  border: 10px solid white;
+}
+
+.PokeB {
+  position: absolute;
+  width: 60px;
+  top: 13px;
+  left: 66px;
+}
+
+.PokeB2 {
+  position: absolute;
+  width: 60px;
+  top: 13px;
+  right: 13px;
+}
+
+.Som {
+  height: 10px;
+  width: 700px;
+  margin-left: 700px;
+  position: relative;
+}
+
+.Sommaire {
+  position: absolute;
+  font-size: 100px;
+  top: 0px;
+  right: 0px;
+  background-image: url(/image/orange.jfif);
+  color: white;
+  border: 10px solid white;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.SuperB {
+  position: absolute;
+  width: 70px;
+  left: 100px;
+  top: 100px;
+}
+.SuperB2 {
+  position: absolute;
+  width: 70px;
+  right: 15px;
+  top: 100px;
+}
+
+.Intro {
+  position: absolute;
+  top: 100px;
+  left: 20px;
+  font-size: 2rem;
+  background-image: url(/image/vert.jfif);
+  width: 565px;
+  border: 5px solid white;
+  color: white;
+}
+
+.Som2 {
+  position: absolute;
+  font-size: 3rem;
+  color: white;
+  background-image: url(/image/yellow.jpg);
+  background-size: cover;
+  background-position: center;
+  top: 200px;
+  left: 0px;
+  width: 780px;
+  height: 500px;
+
+  border: 5px solid white;
+}
+
+.TitreSom1 {
+  color: aliceblue;
+  font-size: 1.5rem;
+  position: absolute;
+  top: 210px;
+}
+
+.SousTitre1 {
+  color: aliceblue;
+  font-size: 2rem;
+  position: absolute;
+  top: 300px;
+  left: 90px;
+}
+
+.TitreSom2 {
+  color: aliceblue;
+  font-size: 1.5rem;
+  position: absolute;
+  top: 350px;
+  left: 0px;
+}
+
+.SousTitre2 {
+  color: aliceblue;
+  font-size: 2rem;
+  position: absolute;
+  top: 200px;
+  width: 500px;
+  left: 0px;
+}
+
+.TitreSom3 {
+  color: aliceblue;
+  font-size: 1.3rem;
+  position: absolute;
+  top: 580px;
+  width: 500px;
+  left: 0px;
+}
+
+.Kirby {
+  position: absolute;
+  top: 925px;
+  left: 100px;
+}
+
+.part1 {
+  position: relative;
+
+  height: 200px;
+  width: 1500px;
+  margin-top: 800px;
+}
+
+.HistoireTitre {
+  position: absolute;
+  font-size: 6.5rem;
+  left: 10px;
+  background-image: url(/image/multicolor.jfif);
+  background-size: cover;
+  border: 10px solid rgb(0, 0, 0);
+  color: white;
+  width: 800px;
+  text-align: center;
+  padding-right: 300px;
+}
+
+.Champi {
+  position: absolute;
+  width: 250px;
+  right: 400px;
+  top: 75px;
+}
+
+.MarioW {
+  position: absolute;
+  width: 410px;
+  left: 1110px;
+  top: 970px;
+}
+
+.Tuyau {
+  position: absolute;
+  right: 0px;
+  top: 250px;
+  width: 350px;
+}
+
+.LeCommencement {
+  position: absolute;
+  top: 390px;
+  left: 50px;
+  font-size: 4rem;
+  color: aliceblue;
+  background-image: url(/image/images.jfif);
+  background-size: cover;
+  background-position: right;
+  border: 5px solid rgba(7, 1, 1, 0.719);
+}
+
+.Start {
+  position: absolute;
+  right: 350px;
+  top: 295px;
+  width: 450px;
+}
+
+.p1 {
+  position: absolute;
+  font-size: 2.2rem;
+  background-image: url(/image/violet.jfif);
+  background-size: cover;
+  border: 5px solid white;
+  color: rgba(0, 0, 0, 0.664);
+  top: 560px;
+  text-align: center;
+}
+
+.Pong {
+  position: absolute;
+  width: 500px;
+  left: 150px;
+  top: 850px;
+  border: 3px solid white;
+}
+
+.SpaceIn {
+  position: absolute;
+  width: 500px;
+  height: 330px;
+  top: 850px;
+  right: 150px;
+  border: 3px solid white;
+}
+
+.p2 {
+  position: absolute;
+  font-size: 2.2rem;
+  background-image: url(/image/pink.jfif);
+  background-size: cover;
+  border: 5px solid white;
+  color: rgba(0, 0, 0, 0.664);
+  top: 1250px;
+  text-align: center;
+}
+
+.MB {
+  position: absolute;
+  width: 500px;
+  height: 300px;
+  top: 1600px;
+  left: 150px;
+  border: 3px solid white;
+}
+
+.NES {
+  position: absolute;
+  width: 500px;
+  height: 300px;
+  top: 1600px;
+  right: 150px;
+  border: 3px solid white;
+}
+
+.SpaceIn2 {
+  position: absolute;
+  top: 1950px;
+  left: 890px;
+  height: 350px;
+}
+
+.levolution1 {
+  position: absolute;
+  top: 1940px;
+  left: 100px;
+}
+
+.Levolution {
+  position: absolute;
+  top: 1940px;
+  left: 100px;
+  font-size: 4rem;
+  color: aliceblue;
+  background-image: url(/image/multicolor3.jfif);
+
+  background-size: cover;
+  border: 5px solid rgba(7, 1, 1, 0.719);
+  font-size: 5rem;
+}
+
+.p3 {
+  position: absolute;
+  font-size: 2.2rem;
+  background-image: url(https://images.unsplash.com/photo-1585146005358-05e9559ad597?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+  background-position: top;
+  background-size: cover;
+  border: 5px solid white;
+  color: rgb(255, 255, 255);
+  top: 2150px;
+  left: 120px;
+  text-align: center;
+
+  width: 600px;
+}
+
+.p4 {
+  position: absolute;
+  font-size: 2.2rem;
+  background-image: url(https://images.unsplash.com/photo-1563518839049-f44a5e423f12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80);
+  background-position: left;
+
+  background-size: cover;
+  border: 5px solid white;
+  color: rgb(255, 255, 255);
+  top: 2290px;
+  left: 800px;
+  text-align: center;
+
+  width: 600px;
+}
+
+.p5 {
+  position: absolute;
+  font-size: 2.2rem;
+  background-image: url(https://images.unsplash.com/photo-1585146285360-fedf200a1856?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80);
+  background-position: top;
+
+  background-size: cover;
+  border: 5px solid white;
+  color: rgb(255, 255, 255);
+  top: 2400px;
+  left: 40px;
+  text-align: center;
+
+  width: 700px;
+}
+
+.MarioWorld {
+  position: absolute;
+  top: 3000px;
+  left: 30px;
+  height: 300px;
+  width: 500px;
+}
+
+.Fleche1 {
+  position: absolute;
+  top: 3050px;
+  left: 580px;
+  height: 200px;
+}
+
+.Mario64 {
+  position: absolute;
+  top: 3000px;
+  left: 950px;
+  height: 300px;
+}
+
+.ALTTP {
+  position: absolute;
+  top: 3400px;
+  left: 30px;
+  width: 530px;
+  height: 300px;
+}
+
+.Fleche2 {
+  position: absolute;
+  top: 3450px;
+  left: 580px;
+  height: 200px;
+}
+
+.OOT {
+  position: absolute;
+  top: 3400px;
+  left: 950px;
+  height: 300px;
+  width: 500px;
+}
+
+.p6 {
+  position: absolute;
+  font-size: 2.2rem;
+  background-image: url(/image/orange.jfif);
+  background-size: cover;
+  border: 5px solid white;
+  color: rgb(255, 255, 255);
+  top: 3730px;
+  left: 350px;
+  text-align: center;
+  height: 500px;
+  width: 800px;
+}
+
+.Perso {
+  position: absolute;
+  top: 3850px;
+  font-size: 2.2rem;
+  left: 400px;
+  color: white;
+}
+
+.DK {
+  position: absolute;
+  width: 350px;
+  top: 3880px;
+  left: 760px;
+}
+
+.lien1 {
+  color: blue;
+  font-style: normal;
+  position: relative;
+  top: 4390px;
+  left: 2000px;
+  font-size: 2rem;
+  left: 1090px;
+}
+
+.lien2 {
+  color: blue;
+  font-style: normal;
+  position: relative;
+  top: 4390px;
+  font-size: 2rem;
+  left: 1090px;
+}
+.bas {
+  position: relative;
+  top: 4350px;
+  font-size: 50px;
+  color: transparent;
+}

@@ -1,0 +1,214 @@
+body {
+  background-size: 100%;
+  background-image: url("https://images.unsplash.com/photo-1454117096348-e4abbeba002c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
+  background-repeat: repeat;
+  background-position: fixed;
+  font-size: 0px;
+}
+
+.part3 {
+  position: relative;
+  width: 1500px;
+}
+
+.ConstruTitre {
+  position: absolute;
+  font-size: 6.5rem;
+  left: 30px;
+  background-image: url(/image/multicolor3.jfif);
+  background-size: cover;
+  background-position: center;
+  border: 10px solid rgb(0, 0, 0);
+  color: white;
+  width: 1100px;
+  text-align: left;
+  padding-right: 300px;
+}
+
+.Play {
+  position: absolute;
+  width: 340px;
+  top: 87px;
+  right: 80px;
+}
+
+.Nintendo {
+  position: absolute;
+  color: rgb(238, 22, 22);
+  font-size: 6rem;
+  top: 290px;
+  left: 50px;
+}
+
+.Pikachu {
+  position: absolute;
+  width: 360px;
+  right: 400px;
+  top: 350px;
+}
+
+.p9 {
+  position: absolute;
+  font-size: 2.2rem;
+  text-align: center;
+  background-image: url(/image/images.jfif);
+  background-size: cover;
+  border: 5px solid white;
+  top: 550px;
+  height: 700px;
+}
+
+.ConsN {
+  position: absolute;
+  font-size: 2.7rem;
+  color: rgba(0, 0, 0, 0.685);
+  top: 860px;
+  left: 400px;
+  text-align: left;
+}
+
+.SuperNES {
+  position: absolute;
+  width: 370px;
+  right: 3px;
+  top: 900px;
+}
+
+.WII {
+  position: absolute;
+  width: 280px;
+  left: 30px;
+  top: 840px;
+}
+
+.Sony {
+  position: absolute;
+  color: rgb(36, 22, 238);
+  font-size: 6rem;
+  top: 1290px;
+  right: 150px;
+}
+
+.Crash {
+  position: absolute;
+  width: 200px;
+  left: 270px;
+  top: 1295px;
+}
+
+.p10 {
+  position: absolute;
+  font-size: 2.2rem;
+  text-align: center;
+  background-image: url(https://images.unsplash.com/photo-1557683304-673a23048d34?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=243&q=80);
+  background-size: cover;
+  background-position: center;
+  border: 5px solid white;
+  top: 1530px;
+  height: 700px;
+}
+
+.ConsS {
+  position: absolute;
+  font-size: 2.7rem;
+  color: rgba(0, 0, 0, 0.685);
+  top: 1950px;
+  left: 400px;
+  text-align: left;
+}
+
+.PS2 {
+  position: absolute;
+  width: 380px;
+  left: 10px;
+  top: 1940px;
+}
+
+.PS4 {
+  position: absolute;
+  width: 330px;
+  right: 0px;
+  top: 1910px;
+}
+
+.Microsoft {
+  position: absolute;
+  color: rgb(4, 196, 20);
+  font-size: 6rem;
+  top: 2250px;
+  left: 50px;
+}
+
+.MasterC {
+  position: absolute;
+  width: 240px;
+  right: 400px;
+  top: 2280px;
+}
+
+.p11 {
+  position: absolute;
+  font-size: 2.2rem;
+  text-align: center;
+  background-image: url(/image/vert.jfif);
+  background-size: cover;
+  background-position: center;
+  border: 5px solid white;
+  top: 2510px;
+  height: 640px;
+}
+
+.ConsX {
+  position: absolute;
+  font-size: 2.7rem;
+  color: rgba(0, 0, 0, 0.685);
+  top: 2900px;
+  left: 400px;
+  text-align: left;
+}
+
+.Xbox360 {
+  position: absolute;
+  width: 350px;
+  left: 10px;
+  top: 2820px;
+}
+
+.Xbox {
+  position: absolute;
+  width: 390px;
+  right: 5px;
+  top: 2930px;
+}
+
+.Source {
+  position: absolute;
+  font-size: 2rem;
+  top: 3250px;
+  right: 50px;
+}
+
+.lien1 {
+  color: blue;
+  font-style: normal;
+  position: relative;
+  top: 3250px;
+  font-size: 2rem;
+  left: 20px;
+}
+
+.lien2 {
+  color: blue;
+  font-style: normal;
+  position: relative;
+  top: 3270px;
+  font-size: 2rem;
+  left: 20px;
+}
+
+.bas {
+  position: relative;
+  top: 3240px;
+  font-size: 50px;
+  color: transparent;
+}

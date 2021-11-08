@@ -1,0 +1,517 @@
+body {
+  background-size: 100%;
+  background-image: url("https://images.unsplash.com/photo-1454117096348-e4abbeba002c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
+  background-repeat: repeat;
+  background-position: fixed;
+  font-size: 0px;
+}
+
+.part2 {
+  position: absolute;
+
+  height: 00px;
+  width: 1500px;
+}
+
+.GenreTitre {
+  position: absolute;
+  font-size: 100px;
+  left: 00px;
+  background-image: url(/image/multicolor4.jfif);
+  background-size: cover;
+  background-position: center;
+  border: 10px solid rgb(0, 0, 0);
+  color: white;
+  width: 1000px;
+  text-align: center;
+  padding-left: 400px;
+  padding-right: 80px;
+}
+
+.Etoile {
+  position: absolute;
+  width: 240px;
+  top: 77px;
+  left: 100px;
+}
+
+.PrincipauxGenre {
+  position: absolute;
+  top: 320px;
+  left: 50px;
+  font-size: 5rem;
+  background-image: url(https://images.unsplash.com/photo-1545431781-3e1b506e9a37?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80);
+  background-position: center;
+  background-size: cover;
+  color: aliceblue;
+  border: 5px solid black;
+}
+
+.Sommaire {
+  position: absolute;
+  padding-left: 70px;
+  padding-right: 70px;
+  background-image: url(https://images.unsplash.com/photo-1620377045865-81341542470d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80);
+  background-position: bottom;
+  background-size: cover;
+  font-size: 3rem;
+  color: aliceblue;
+  top: 300px;
+  left: 950px;
+  border: 7px solid black;
+  width: 390px;
+}
+
+.STitreSommaire {
+  color: aliceblue;
+}
+
+.PG {
+  color: rgba(0, 0, 0, 0.966);
+  font-size: 3rem;
+}
+
+.SG {
+  color: rgb(0, 2, 2);
+  font-size: 3rem;
+}
+
+.Bowser {
+  position: absolute;
+  top: 530px;
+  left: 0px;
+  width: 450px;
+}
+
+.Sephiroth {
+  position: absolute;
+  top: 585px;
+  left: 500px;
+  width: 550px;
+}
+
+.p1 {
+  position: absolute;
+  font-size: 2.2rem;
+  background-image: url(https://images.unsplash.com/photo-1554034483-04fda0d3507b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80);
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  border: 5px solid white;
+  top: 850px;
+}
+
+.Action {
+  position: absolute;
+  color: white;
+  font-size: 6rem;
+  top: 935px;
+  left: 50px;
+}
+.action1 {
+  position: absolute;
+
+  font-size: 6rem;
+  top: 935px;
+  left: 50px;
+}
+
+.p2 {
+  position: absolute;
+  font-size: 2.2rem;
+  background-image: url(https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80);
+  background-size: cover;
+  border: 10px solid white;
+  width: 670px;
+  top: 1150px;
+  left: 50px;
+  text-align: center;
+}
+
+.SF {
+  position: absolute;
+  width: 550px;
+  height: 300px;
+  right: 175px;
+  top: 1210px;
+  border: 3px solid white;
+}
+
+.COD {
+  position: absolute;
+  width: 550px;
+  height: 280px;
+  right: 18px;
+  top: 1580px;
+  border: 3px solid white;
+}
+
+.Ryu {
+  position: absolute;
+  width: 150px;
+  right: 395px;
+  top: 983px;
+}
+
+.Aventure {
+  position: absolute;
+  color: white;
+  font-size: 6rem;
+  top: 1820px;
+  right: 50px;
+}
+
+.aventure1 {
+  position: absolute;
+  top: 1820px;
+}
+
+.p3 {
+  position: absolute;
+  font-size: 2.2rem;
+  background-image: url(https://images.unsplash.com/photo-1508614999368-9260051292e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80);
+  background-size: cover;
+  border: 10px solid white;
+  width: 770px;
+  top: 2050px;
+  right: 50px;
+  text-align: center;
+}
+
+.BOTW {
+  position: absolute;
+  width: 600px;
+  height: 350px;
+  top: 2130px;
+  left: 25px;
+  border: 3px solid white;
+}
+
+.RDR2 {
+  position: absolute;
+  width: 600px;
+  height: 350px;
+  top: 2610px;
+  left: 25px;
+  border: 3px solid white;
+}
+
+.Link {
+  position: absolute;
+  width: 230px;
+  top: 1860px;
+  left: 375px;
+}
+
+.Samus {
+  position: absolute;
+  width: 410px;
+  top: 1730px;
+  left: 0px;
+}
+
+.RPG {
+  position: absolute;
+  color: white;
+  font-size: 6rem;
+  top: 2955px;
+  left: 50px;
+}
+
+.rpg1 {
+  position: absolute;
+  color: white;
+  font-size: 6rem;
+  top: 2955px;
+  left: 50px;
+}
+
+.Cloud {
+  position: absolute;
+  top: 2972px;
+  width: 300px;
+  left: 350px;
+}
+
+.p4 {
+  position: absolute;
+  font-size: 2.2rem;
+  background-image: url(https://images.unsplash.com/photo-1595757816291-ab4c1cba0fc2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80);
+  background-size: cover;
+  background-position: top;
+  border: 10px solid white;
+  width: 670px;
+  top: 3150px;
+  left: 50px;
+  text-align: center;
+}
+
+.Skyrim {
+  position: absolute;
+  width: 550px;
+  height: 300px;
+  right: 155px;
+  top: 3210px;
+  border: 3px solid white;
+}
+
+.FF7 {
+  position: absolute;
+  width: 550px;
+  height: 380px;
+  right: 18px;
+  top: 3580px;
+  border: 3px solid white;
+}
+
+.Rythme {
+  position: absolute;
+  color: white;
+  font-size: 6rem;
+  top: 4000px;
+  right: 50px;
+}
+
+.rythme1 {
+  position: absolute;
+  color: white;
+  font-size: 6rem;
+  top: 4000px;
+  right: 50px;
+}
+
+.Guitar {
+  position: absolute;
+  top: 3967px;
+  left: 100px;
+  width: 550px;
+}
+
+.p5 {
+  position: absolute;
+  font-size: 2.2rem;
+  background-image: url(https://images.unsplash.com/photo-1617957772039-694195b83a35?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1332&q=80);
+  background-size: cover;
+  background-position: top;
+  border: 10px solid white;
+  width: 770px;
+  top: 4200px;
+  right: 50px;
+  text-align: center;
+}
+
+.GuitarHero {
+  position: absolute;
+  width: 600px;
+  height: 350px;
+  top: 4300px;
+  left: 25px;
+  border: 3px solid white;
+}
+
+.SousGenre {
+  position: absolute;
+  font-size: 5rem;
+  top: 4750px;
+  left: 70px;
+  background-image: url(https://images.unsplash.com/photo-1548350896-fafc317d3ceb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+  background-position: top;
+  background-size: cover;
+  color: aliceblue;
+  border: 5px solid black;
+}
+
+.sousgenre1 {
+  position: absolute;
+  font-size: 5rem;
+  top: 4750px;
+  left: 70px;
+  background-image: url(https://images.unsplash.com/photo-1548350896-fafc317d3ceb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+  background-position: top;
+  background-size: cover;
+  color: aliceblue;
+}
+
+.Dracaufeu {
+  position: absolute;
+  top: 4675px;
+  left: 900px;
+  width: 420px;
+}
+
+.p6 {
+  position: absolute;
+  top: 5000px;
+  font-size: 2.2rem;
+  background-image: url(https://images.unsplash.com/flagged/photo-1593005510329-8a4035a7238f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+  background-size: cover;
+  border: 5px solid white;
+  text-align: center;
+}
+.PlateF {
+  position: absolute;
+  color: white;
+  font-size: 6rem;
+  top: 5100px;
+  left: 50px;
+}
+
+.platesformes1 {
+  position: absolute;
+
+  top: 5100px;
+  left: 50px;
+}
+
+.p7 {
+  background-size: cover;
+  border: 10px solid white;
+  width: 770px;
+  top: 5320px;
+  left: 50px;
+  text-align: center;
+  position: absolute;
+  font-size: 2.2rem;
+  background-image: url(https://images.unsplash.com/photo-1563291074-2bf8677ac0e5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=351&q=80);
+}
+
+.Sonic {
+  position: absolute;
+  width: 330px;
+  top: 5150px;
+  right: 195px;
+}
+
+.SonicH {
+  position: absolute;
+  width: 580px;
+  right: 30px;
+  top: 5430px;
+  border: 3px solid white;
+}
+
+.M64 {
+  position: absolute;
+  width: 580px;
+  right: 30px;
+  top: 5930px;
+  border: 3px solid white;
+}
+
+.MMORPG {
+  position: absolute;
+  color: white;
+  font-size: 6rem;
+  top: 6230px;
+  right: 50px;
+}
+
+.mmorpg1 {
+  position: absolute;
+
+  top: 6230px;
+  right: 50px;
+}
+
+.p8 {
+  background-size: cover;
+  border: 10px solid white;
+  width: 770px;
+  top: 6450px;
+  right: 50px;
+  text-align: center;
+  position: absolute;
+  font-size: 2.2rem;
+  background-image: url(https://images.unsplash.com/photo-1557683316-973673baf926?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80);
+}
+
+.WOW2 {
+  position: absolute;
+  top: 6210px;
+  width: 360px;
+}
+
+.WOW {
+  position: absolute;
+  width: 600px;
+  height: 400px;
+  top: 6530px;
+  left: 25px;
+  border: 3px solid white;
+}
+
+.FF14 {
+  position: absolute;
+  width: 600px;
+  height: 400px;
+  top: 7010px;
+  left: 25px;
+  border: 3px solid white;
+}
+
+.SurvivalH {
+  position: absolute;
+  color: white;
+  font-size: 6rem;
+  top: 7450px;
+  left: 50px;
+}
+
+.survivalhorror1 {
+  position: absolute;
+  color: white;
+  font-size: 6rem;
+  top: 7450px;
+  left: 50px;
+}
+
+.p9 {
+  background-size: cover;
+  border: 10px solid white;
+  width: 770px;
+  top: 7650px;
+  left: 50px;
+  text-align: center;
+  position: absolute;
+  font-size: 2.2rem;
+  background-image: url(https://images.unsplash.com/photo-1617957772045-e21ca8c36dee?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1332&q=80);
+}
+
+.Zombie {
+  position: absolute;
+  top: 7390px;
+  left: 900px;
+}
+
+.RE {
+  position: absolute;
+  width: 500px;
+  top: 7750px;
+  right: 75px;
+  border: 3px solid white;
+}
+
+.lien1 {
+  color: blue;
+  font-style: normal;
+  position: relative;
+  top: 8290px;
+  font-size: 2rem;
+  left: 20px;
+}
+
+.lien2 {
+  color: blue;
+  font-style: normal;
+  position: relative;
+  top: 8290px;
+  font-size: 2rem;
+  left: 950px;
+}
+
+.bas {
+  position: relative;
+  top: 8250px;
+  font-size: 50px;
+  color: transparent;
+}
